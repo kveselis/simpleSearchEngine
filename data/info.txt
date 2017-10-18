@@ -1,0 +1,1 @@
+Cia galima irašyti norimus dokumentus kuriuos nurodžius links.json faile bus galima indeksuoti
