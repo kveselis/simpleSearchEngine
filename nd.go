@@ -3,7 +3,8 @@ package main
 // Programoje naudojamos bibliotekos
 import (
 	"runtime"
-	"code.google.com/p/go.net/html"
+	"net/http"
+	"golang.org/x/net/html"
 	"encoding/json"
 	"errors"
 	"fmt"
@@ -11,7 +12,6 @@ import (
 	"io/ioutil"
 	"log"
 	"math"
-	"net/http"
 	"net/url"
 	"os"
 	"os/exec"
